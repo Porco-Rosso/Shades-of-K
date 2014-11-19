@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: "din", "BebasNeue Light";
+    font-weight: Light, normal, lighter;
+}
+.slices {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    color: rgba(0, 0, 0, 0);
+    text-align: left;
+    text-transform: uppercase;
+    display: flex;
+    display: -webkit-flex;
+}
+.big-time {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 3px;
+}
+#sb {
+    position: absolute;
+    top: 0px;
+    height: 1px;
+}
+@font-face {
+    font-family: "din";
+    src: url("../fonts/dinot_light.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "BebasNeue Light";
+    src: url("../fonts/BebasNeue Light.otf");
+}
