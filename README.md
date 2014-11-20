@@ -1,10 +1,13 @@
-shades-of-K
+Shades-of-K
 ===========
 
 Repository for development of the iphone LockHTML3 theme: "Shades of K"
 See an example in your webrowser: http://stereostance.com/shadesofk/
 
-More info coming soon...
+![alt text](https://cloud.githubusercontent.com/assets/7024527/5128492/c738e42a-70db-11e4-9070-030ad935ae5a.jpg "Beautiful isn't it?")
+
+![alt text](https://cloud.githubusercontent.com/assets/7024527/5128547/1c89d0ec-70dc-11e4-8cd8-6647f9d133c8.gif "Animate!")
+
 
 - There may be some issues with the release, as I haven't had much time to beta-test it. Nevertheless this theme is quite versatile, and there are infinite possibilities, I'm looking forward to what you guys come up with! If there are any problems reach me on deviantart or reddit, under the username drpoup. 
 
