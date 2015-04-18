@@ -17,3 +17,5 @@ See an example in your webrowser: http://stereostance.com/shadesofk/
 
 - If you want to use this as a SBHTML theme, then rename the file as such:
 LockBackground.html ===> Wallpaper.html
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
