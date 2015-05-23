@@ -2,14 +2,16 @@ Shades-of-K
 ===========
 
 Repository for development of the iphone LockHTML3 theme: "Shades of K"
-See an example in your webrowser: http://stereostance.com/shadesofk/
+[See an example in your webrowser](https://rawgit.com/Porco-Rosso/Shades-of-K/master/LockBackground.html)
+
+---
 
 ![alt text](https://cloud.githubusercontent.com/assets/7024527/5128492/c738e42a-70db-11e4-9070-030ad935ae5a.jpg "Beautiful isn't it?")
+<p align="center">
 <img src="https://cloud.githubusercontent.com/assets/7024527/5128547/1c89d0ec-70dc-11e4-8cd8-6647f9d133c8.gif" align="middle" height="300">
+</p>
 
-
-
-- There may be some issues with the release, as I haven't had much time to beta-test it. Nevertheless this theme is quite versatile, and there are infinite possibilities, I'm looking forward to what you guys come up with! If there are any problems reach me on deviantart or reddit, under the username drpoup. 
+---
 
 - For notification support please install groovyAPI, and for Battery-Bar support please install InfoStats in cydia
 
@@ -17,5 +19,9 @@ See an example in your webrowser: http://stereostance.com/shadesofk/
 
 - If you want to use this as a SBHTML theme, then rename the file as such:
 LockBackground.html ===> Wallpaper.html
+
+---
+
+![GNU GPL v2 License](https://img.shields.io/badge/license-GNU%20GPL%20v2-brightgreen.svg?style=flat-square)
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
